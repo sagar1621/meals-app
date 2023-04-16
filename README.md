@@ -5,6 +5,12 @@ Download the expo go app to use the app
 
 [Demo Video](https://drive.google.com/file/d/10mEWB-79y3IgaFmt-RLaWCSfPTMyEYyS/view?usp=sharing)
 
+# Screenshots
+![mealsapp screenshots](https://user-images.githubusercontent.com/86157858/232337613-8d234469-e16f-4c80-91c6-fd5c78c3476d.jpg)
+
+
+
+
 # To install locally
 Clone the repo
 execute command
